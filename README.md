@@ -14,11 +14,13 @@ Successful implementation of Selenium WebDriver automation demonstrating browser
 ## 📸 Test Evidence
 ![Wikipedia Automation](screenshots/wikipedia_test.png)
 
-## 🛠 Technologies
-- Python 3.13
-- Selenium WebDriver
-- ChromeDriver
-- WebDriver Manager
+## 🛠 Technologies Used
+- **Python 3.13**
+- **Selenium WebDriver 4.28.1**
+- **ChromeDriver** (automatically managed)
+- **WebDriver Manager 4.0.2**
+- **VS Code** IDE
+
 
 ## 👨‍💻 Author
 **Ashara Yapa** - Aspiring Test Automation Engineer
